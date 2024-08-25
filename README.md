@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alecxander567
-- 👀 I’m interested in Front-End Software Development
+- 👀 I’m interested in Web Application Development
 - 🌱 I’m currently learning Bootstrap 5, and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
