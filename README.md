@@ -1,4 +1,4 @@
-Wants to become a Full-Stack Developer☺️, I'm current learning Java(DSA) and PHP(OOP)
+Wants to become a Full-Stack Developer☺️, I'm currently learning Java(DSA) and PHP(OOP)
 
 <!---
 alecxander567/alecxander567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
