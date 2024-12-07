@@ -1,4 +1,4 @@
-Aspiring Software Developer☝️👨‍💻
+Aspiring Software Engineer☝️👨‍💻
 
 Studying BS in Information Technology
 currently learning Data Structures and Algorithms(Java) and Object-Oriented Programming(PHP)☺️📝💻
