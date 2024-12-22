@@ -1,7 +1,6 @@
 Aspiring Software Engineer☝️👨‍💻
 
-Studying BS in Information Technology
-currently learning Data Structures and Algorithms(Java) and Object-Oriented Programming(PHP)☺️📝💻
+Studying BS in Information Technology📝💻
 
 <!---
 alecxander567/alecxander567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
