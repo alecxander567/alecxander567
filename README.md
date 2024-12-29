@@ -1,4 +1,3 @@
-
 Studying BS in Information Technology📝💻
 
 <!---
