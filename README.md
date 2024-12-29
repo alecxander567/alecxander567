@@ -1,4 +1,3 @@
-Aspiring Software Engineer☝️👨‍💻
 
 Studying BS in Information Technology📝💻
 
