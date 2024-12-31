@@ -1,6 +1,6 @@
 Studying BS in Information Technology📝💻
 
-*_My Current Stacks :_*
+_My Current Stacks :_
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
 <!---
 alecxander567/alecxander567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
