@@ -1,5 +1,5 @@
 Studying BS in Information Technology📝💻
-Just a guy learning how to code
+Just a guy learning how to code👨‍💻
 
 **My Current Stacks :**
 
