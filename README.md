@@ -5,7 +5,5 @@ Vibe Coding🫶
 **My Current Stacks :**
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,java,python,php,nodejs,cpp,mysql,sqlite,express,django,figma,git)](https://skillicons.dev)
-<!---
-alecxander567/alecxander567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=saifurrahman1193&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
