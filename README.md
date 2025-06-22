@@ -7,15 +7,17 @@ Just a guy learning how to code👨‍💻
 [![My Skills](https://skillicons.dev/icons?i=java,js,python,php,nodejs)](https://skillicons.dev)
 <hr>
 
-**🌐Web and Database🌐 :**
+**🌐Web and Database🌐 :**<br><br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,mysql)](https://skillicons.dev)
+<hr>
 
-**🎯Frameworks🎯 :**
+**🎯Frameworks🎯 :**<br><br>
 [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,spring,django,express)](https://skillicons.dev)
+<hr>
 
-**⚙️Tools⚙️:**
+**⚙️Tools⚙️:**<br><br>
 [![My Skills](https://skillicons.dev/icons?i=figma,git)](https://skillicons.dev)
-
+<hr>
 
 
 
