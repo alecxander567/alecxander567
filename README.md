@@ -21,7 +21,7 @@ Hi I am Alec Xander, I am a student with a passion for building softwares. I cur
 [![My Skills](https://skillicons.dev/icons?i=figma,git)](https://skillicons.dev)
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=alecxander567&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=alecxander567&theme=algolia&show_icons=true)](https://github.com/alecxander567)
 
 
 
