@@ -3,8 +3,9 @@ Just a guy learning how to code👨‍💻
 
 **My Current Stacks :**
 
-**</>Programming</> :** <br><br><hr>
+**</>Programming</> :** <br><br>
 [![My Skills](https://skillicons.dev/icons?i=java,js,python,php,nodejs)](https://skillicons.dev)
+<hr>
 
 **🌐Web and Database🌐 :**
 [![My Skills](https://skillicons.dev/icons?i=html,css,mysql)](https://skillicons.dev)
