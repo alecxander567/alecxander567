@@ -1,5 +1,5 @@
 Studying BS in Information Technology📝💻
-Just a guy learning how to code👨‍💻
+Hi I am Alec Xander, I am a student with a passion for building softwares. I currently focus on Web Development using Spring Boot and django alongside react, with Spring Boot as my favorite so far :)
 
 **My Current Stacks :**
 
