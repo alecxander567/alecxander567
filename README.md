@@ -6,7 +6,7 @@ Hi I am Alec Xander, I am a student with a passion for building softwares. I cur
 **My Current Stacks :**
 
 **</>Programming</> :** <br><br>
-[![My Skills](https://skillicons.dev/icons?i=java,js,python,php,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,php,nodejs)](https://skillicons.dev)
 <hr>
 
 **🌐Web and Database🌐 :**<br><br>
