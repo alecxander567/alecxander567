@@ -1,5 +1,4 @@
-*Aspiring Java Developer☕</>*
-<hr>
+#Aspiring Java Developer☕</>
 
 *About Me:*
 Studying BS in Information Technology📝💻
