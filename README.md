@@ -1,4 +1,4 @@
-*Aspiring Java Developer☕</>*
+*Aspiring Software Developer☕</>*
 
 *About Me:*<br>
 Hi I am Alec Xander, I am a student with a passion for building softwares. I currently focus on Web Development using Spring Boot and django alongside react, with Spring Boot as my favorite so far :)<br>Studying BS in Information Technology📝💻<br>
