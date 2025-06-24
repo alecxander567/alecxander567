@@ -14,7 +14,7 @@ Hi I am Alec Xander, I am a student with a passion for building softwares. I cur
 <hr>
 
 **🎯Frameworks🎯 :**<br><br>
-[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,spring,django,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,spring,django)](https://skillicons.dev)
 <hr>
 
 **⚙️Tools⚙️:**<br><br>
