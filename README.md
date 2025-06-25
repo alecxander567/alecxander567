@@ -1,7 +1,7 @@
 *Aspiring Software Developer</>*
 
 *About Me:*<br>
-Hi I am Alec Xander, I am a student with a passion for building softwares, solving complex problems, and exploring technologies. I currently focus on Web Development.<br>Studying BS in Information Technology📝💻<br>
+Hi I am Alec Xander, I am a student with a passion for building softwares, solving real-world problems, and exploring technologies. I currently focus on Web Development.<br>Studying BS in Information Technology📝💻<br>
 
 **My Current Stacks :**
 
