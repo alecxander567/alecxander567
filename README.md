@@ -21,7 +21,6 @@ Hi, I am a student with a passion for building softwares, solving real-world pro
 [![My Skills](https://skillicons.dev/icons?i=figma,git)](https://skillicons.dev)
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecxander567&hide=html,css&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=alecxander567&theme=algolia&show_icons=true&card_width=495&card_height=200)](https://github.com/alecxander567)
 
 
