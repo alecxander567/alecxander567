@@ -1,4 +1,4 @@
-*Aspiring Software Developer</>*
+*Aspiring Software Engineer</>*
 
 *About Me:*<br>
 Hi, I am a student with a passion for building softwares, solving real-world problems using technology, and exploring technologies. I currently focus on Web Development.<br>Studying BS in Information Technology📝💻<br>
