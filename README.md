@@ -22,7 +22,7 @@ A student with a passion for building softwares, solving real-world problems usi
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=alecxander567&hide=scss,stylus,blade,jupyter%20notebook,shell,batchfile,dockerfile&theme=algolia&show_icons=true&card_width=400)](https://github.com/alecxander567)
-[![Alec Xander's GitHub stats](https://github-readme-stats.vercel.app/api?username=alecxander567&theme=algolia&show_icons=true&card_width=495,height=490)](https://github.com/alecxander567)
+[![Alec Xander's GitHub stats](https://github-readme-stats.vercel.app/api?username=alecxander567&theme=algolia&show_icons=true&card_width=495,height=900)](https://github.com/alecxander567)
 
 
 
