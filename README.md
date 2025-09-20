@@ -21,9 +21,8 @@ A student with a passion for building softwares, solving real-world problems usi
 [![My Skills](https://skillicons.dev/icons?i=figma,git)](https://skillicons.dev)
 <hr>
 
-[![Alec Xander's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=alecxander567&hide=scss,stylus,blade,jupyter%20notebook,shell,batchfile,dockerfile&theme=algolia&show_icons=true)](https://github.com/alecxander567)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=alecxander567&theme=algolia&show_icons=true&card_width=495&card_height=200)](https://github.com/alecxander567)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=alecxander567&hide=scss,stylus,blade,jupyter%20notebook,shell,batchfile,dockerfile&theme=algolia&show_icons=true&card_width=495)](https://github.com/alecxander567)
+[![Alec Xander's GitHub stats](https://github-readme-stats.vercel.app/api?username=alecxander567&theme=algolia&show_icons=true&card_width=495)](https://github.com/alecxander567)
 
 
 
