@@ -38,8 +38,11 @@ Hi, I'm Alec Xander—a passionate student dedicated to building impactful softw
 
 ## 🌱 Currently Learning
 
-- TypeScript, React Native, AI Development, Docker
-- C# .NET at school
+- TypeScript
+- React Native
+- AI Development
+- Docker
+- C# .NET 
 
 ---
 
