@@ -34,7 +34,7 @@ Hi, I'm Alec Xander—a passionate student dedicated to building impactful softw
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alecxander567&theme=algolia&show_icons=true&hide=prs,issues" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecxander567&layout=compact&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecxander567&layout=compact&theme=radical" height="180em" width="400"/>
 </p>
 
 ---
