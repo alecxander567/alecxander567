@@ -30,7 +30,7 @@ Hi, I'm Alec Xander—a passionate student dedicated to building impactful softw
 
 ---
 
-##📊 Most Used Languages  &  📈 GitHub Stats 
+## 📊 Most Used Languages  &  📈 GitHub Stats 
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecxander567&layout=compact&theme=radical" height="180em" width="500"/>
