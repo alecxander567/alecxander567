@@ -1,4 +1,4 @@
-# 👋 Aspiring Full-Stack Developer
+# 👋 Aspiring Web Developer
 
 ---
 
