@@ -31,6 +31,9 @@ Hi, I'm Alec Xander—a passionate student dedicated to building impactful softw
 ---
 
 ## 📈 GitHub Stats
+## 📊 Most Used Programming Languages  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecxander567&layout=compact&theme=radical)
 
 [![Alec Xander's GitHub stats](https://github-readme-stats.vercel.app/api?username=alecxander567&theme=algolia&show_icons=true&card_width=495&hide=prs,issues)](https://github.com/alecxander567)
 
