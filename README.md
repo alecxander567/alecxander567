@@ -26,7 +26,7 @@ Hi, I'm Alec Xander—a passionate student dedicated to building impactful softw
 ---
 
 ### ⚙️ Tools
-[![My Skills](https://skillicons.dev/icons?i=figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,git,postman)](https://skillicons.dev)
 
 ---
 
