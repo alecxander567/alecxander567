@@ -41,7 +41,6 @@ Hi, I'm Alec Xander—a passionate student dedicated to building impactful softw
 
 ## 🌱 Currently Learning
 
-- React Native
 - AI Development
 - Docker
 - C# .NET 
