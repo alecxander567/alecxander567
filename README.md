@@ -34,11 +34,11 @@ Hi, I'm Alec Xander—a passionate student dedicated to building impactful softw
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecxander567&layout=compact&theme=onedark" alt="Top Languages" height="220em" width="400em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecxander567&layout=compact&theme=dracula" alt="Top Languages" height="220em" width="400em" />
   </a>
   <br/>
   <a href="https://github.com/alecxander567">
-    <img src="https://github-readme-stats.vercel.app/api?username=alecxander567&theme=onedark&show_icons=true&hide=prs,issues" alt="GitHub Stats" height="180em" />
+    <img src="https://github-readme-stats.vercel.app/api?username=alecxander567&theme=dracula&show_icons=true&hide=prs,issues" alt="GitHub Stats" height="180em" />
   </a>
 </p>
 
