@@ -38,7 +38,7 @@ Hi, I'm Alec Xander—a passionate student dedicated to building impactful softw
   </a>
   <br/>
   <a href="https://github.com/alecxander567">
-    <img src="https://github-readme-stats.vercel.app/api?username=alecxander567&theme=dracula&show_icons=true&hide=prs,issues" alt="GitHub Stats" height="180em" />
+    <img src="https://github-readme-stats.vercel.app/api?username=alecxander567&theme=radical&show_icons=true&hide=prs,issues" alt="GitHub Stats" height="180em" />
   </a>
 </p>
 
