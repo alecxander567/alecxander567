@@ -33,8 +33,13 @@ Hi, I'm Alec Xander—a passionate student dedicated to building impactful softw
 ## 📊 Most Used Languages  &  📈 GitHub Stats 
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecxander567&layout=compact&theme=radical" height="180em" width="500"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=alecxander567&theme=algolia&show_icons=true&hide=prs,issues" height="180em" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecxander567&layout=donut&theme=algolia" alt="Top Languages" height="180em" />
+  </a>
+  <br/>
+  <a href="https://github.com/alecxander567">
+    <img src="https://github-readme-stats.vercel.app/api?username=alecxander567&theme=algolia&show_icons=true&hide=prs,issues" alt="GitHub Stats" height="180em" />
+  </a>
 </p>
 
 ---
