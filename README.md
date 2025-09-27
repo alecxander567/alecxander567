@@ -34,7 +34,7 @@ Hi, I'm Alec Xander—a passionate student dedicated to building impactful softw
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecxander567&layout=compact&theme=synthwave" alt="Top Languages" height="220em" width="400em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecxander567&layout=compact&theme=cobalt" alt="Top Languages" height="220em" width="400em" />
   </a>
   <br/>
   <a href="https://github.com/alecxander567">
