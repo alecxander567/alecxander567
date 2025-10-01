@@ -46,7 +46,6 @@ Hi, I'm Alec Xander—a passionate student dedicated to building impactful softw
 
 ## 🌱 Currently Learning
 
-- AI Development
 - C# .NET 
 
 ---
