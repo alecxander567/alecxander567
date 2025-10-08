@@ -1,4 +1,4 @@
-# 👋 Aspiring Web Application Developer
+# 👋 Aspiring Software Developer
 
 ---
 
