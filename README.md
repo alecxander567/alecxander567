@@ -23,7 +23,6 @@ Hi, I'm Alec Xander—a passionate student dedicated to building impactful softw
 ### 🎯 Frameworks & Libraries
 [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,spring,django,express,dotnet,laravel)](https://skillicons.dev)
 
-![Alecxander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alecxander567&show_icons=true&theme=radical)
 ---
 
 ### ⚙️ Tools
@@ -33,8 +32,9 @@ Hi, I'm Alec Xander—a passionate student dedicated to building impactful softw
 
 ## 📊 Most Used Languages  &  📈 GitHub Stats 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecxander567&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecxander567&layout=compact&theme=radical&cache_seconds=1800)
 
+![Alecxander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alecxander567&show_icons=true&theme=radical&cache_seconds=1800)
 
 ---
 
