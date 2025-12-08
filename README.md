@@ -32,9 +32,9 @@ Hi, I'm Alec Xander—a passionate student dedicated to building impactful softw
 
 ## 📊 Most Used Languages  &  📈 GitHub Stats 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecxander567&layout=compact&theme=radical&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alecxander567&layout=compact&theme=radical)
 
-![Alecxander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alecxander567&show_icons=true&theme=radical&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alecxander567&show_icons=true&theme=radical)
 
 ---
 
