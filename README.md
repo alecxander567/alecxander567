@@ -11,7 +11,7 @@ Hi, I'm Alec Xander—a passionate student dedicated to building impactful softw
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=java,cs,js,python,ts,php,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,js,python,ts,php,nodejs,cpp)](https://skillicons.dev)
 
 ---
 
