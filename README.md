@@ -21,7 +21,7 @@ Hi, I'm Alec Xander—a passionate student dedicated to building impactful softw
 ---
 
 ### 🎯 Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,spring,django,express,dotnet,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,spring,django,express,dotnet,laravel)](https://skillicons.dev)
 
 ---
 
