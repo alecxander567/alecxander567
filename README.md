@@ -16,7 +16,7 @@ Hi, I'm Alec Xander—a passionate student dedicated to building impactful softw
 ---
 
 ### 🌐 Web & Databases
-[![My Skills](https://skillicons.dev/icons?i=html,css,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,mysql,mongodb,firebase)](https://skillicons.dev)
 
 ---
 
