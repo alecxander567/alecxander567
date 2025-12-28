@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-Hi, I'm Alec Xander—a passionate student dedicated to building impactful software and tackling real-world problems with technology. Currently pursuing a **BS in Information Technology** 📝💻, I love learning new tools, and exploring emerging technologies.
+A passionate student dedicated to building impactful software and tackling real-world problems with technology. Currently pursuing a **BS in Information Technology** 📝💻, I love learning new tools, and exploring emerging technologies.
 
 ---
 
