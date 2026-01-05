@@ -42,7 +42,6 @@ A passionate student dedicated to building impactful software and tackling real-
 - Basics of ML(Numpy)
 - System Design
 - Unit Testing(Vitest)
-- Observability
 ---
 
 > _"Building software, building dreams."_
