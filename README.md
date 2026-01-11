@@ -1,47 +1,31 @@
-# 👋 Aspiring Software Developer
+# Software Developer
 
----
+## About Me
+I am a dedicated software developer currently pursuing a Bachelor of Science in Information Technology. My focus is on creating impactful software solutions that address real-world challenges through innovative technology applications. I am committed to continuous learning and staying current with emerging technologies and industry best practices.
 
-## 🚀 About Me
+## Technical Expertise
 
-A passionate student dedicated to building impactful software and tackling real-world problems with technology. Currently pursuing a **BS in Information Technology** 📝💻, I love learning new tools, and exploring emerging technologies.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
+### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=java,cs,js,python,ts,php,nodejs,cpp)](https://skillicons.dev)
 
----
-
-### 🌐 Web & Databases
+### Web Technologies & Databases
 [![My Skills](https://skillicons.dev/icons?i=html,css,mysql,mongodb,firebase)](https://skillicons.dev)
 
----
-
-### 🎯 Frameworks & Libraries
+### Frameworks & Libraries
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,spring,django,express,dotnet,laravel)](https://skillicons.dev)
 
----
-
-### ⚙️ Tools
+### Development Tools
 [![My Skills](https://skillicons.dev/icons?i=figma,git,postman)](https://skillicons.dev)
 
----
+## GitHub Analytics
 
-## 📊 Most Used Languages  &  📈 GitHub Stats 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alecxander567&layout=compact&theme=radical&cache_seconds=1800)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=alecxander567&show_icons=true&theme=radical&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecxander567&layout=compact&theme=radical&cache_seconds=1800)
+## Current Learning Focus
+- Machine Learning Fundamentals (NumPy)
+- System Design Principles
+- Unit Testing with Vitest
 
-![Alecxander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alecxander567&show_icons=true&theme=radical&cache_seconds=1800)
-
----
-
-## 🌱 Currently Learning
-- Basics of ML(Numpy)
-- System Design
-- Unit Testing(Vitest)
----
-
-> _"Building software, building dreams."_
+## Contact & Collaboration
+I am open to collaboration opportunities and connecting with fellow developers. Feel free to explore my repositories and reach out regarding potential projects or professional opportunities.
