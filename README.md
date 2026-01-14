@@ -27,5 +27,3 @@ I am a dedicated software developer currently pursuing a Bachelor of Science in 
 - System Design Principles
 - Unit Testing with Vitest
 
-## Contact & Collaboration
-I am open to collaboration opportunities and connecting with fellow developers. Feel free to explore my repositories and reach out regarding potential projects or professional opportunities.
