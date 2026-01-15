@@ -12,7 +12,7 @@ I am a dedicated software developer currently pursuing a Bachelor of Science in 
 [![My Skills](https://skillicons.dev/icons?i=html,css,mysql,mongodb,firebase)](https://skillicons.dev)
 
 ### Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,spring,django,express,dotnet,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,spring,django,express,dotnet,laravel,fastapi)](https://skillicons.dev)
 
 ### Development Tools
 [![My Skills](https://skillicons.dev/icons?i=figma,git,postman)](https://skillicons.dev)
