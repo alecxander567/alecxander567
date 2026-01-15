@@ -1,4 +1,4 @@
-# Software Developer
+# Aspiring Software Developer
 
 ## About Me
 I am a dedicated software developer currently pursuing a Bachelor of Science in Information Technology. My focus is on creating impactful software solutions that address real-world challenges through innovative technology applications. I am committed to continuous learning and staying current with emerging technologies and industry best practices.
