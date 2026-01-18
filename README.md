@@ -19,8 +19,8 @@ I am a dedicated software developer currently pursuing a Bachelor of Science in 
 
 ## GitHub Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alecxander567&layout=compact&theme=radical&cache_seconds=1800)
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=alecxander567&show_icons=true&theme=radical&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alecxander567&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alecxander567&show_icons=true&theme=radical)
 
 ## Current Learning Focus
 - Machine Learning Fundamentals (NumPy)
