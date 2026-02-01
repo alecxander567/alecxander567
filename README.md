@@ -15,7 +15,7 @@ I am a dedicated student currently pursuing a Bachelor of Science in Information
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,spring,django,express,dotnet,laravel,fastapi)](https://skillicons.dev)
 
 ### Development Tools
-[![My Skills](https://skillicons.dev/icons?i=figma,git,postman,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,git,postman)](https://skillicons.dev)
 
 ## GitHub Analytics
 
