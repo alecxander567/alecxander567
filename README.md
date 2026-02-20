@@ -1,7 +1,7 @@
 # Aspiring Software Developer
 
 ## About Me
-A passionate BSIT student who loves to code and solve problems through programming.
+A passionate BSIT student who loves to solve problems using technology and programming.
 
 ## Technical Expertise
 
