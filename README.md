@@ -9,7 +9,7 @@ A passionate BSIT student who loves to solve problems using technology and progr
 [![My Skills](https://skillicons.dev/icons?i=java,cs,js,python,ts,php,nodejs,cpp)](https://skillicons.dev)
 
 ### Web Technologies & Databases
-[![My Skills](https://skillicons.dev/icons?i=html,css,mysql,mongodb,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,mysql,postgres,mongodb,firebase)](https://skillicons.dev)
 
 ### Frameworks & Libraries
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,spring,django,express,dotnet,laravel,fastapi)](https://skillicons.dev)
