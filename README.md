@@ -44,7 +44,7 @@ A passionate BSIT student focusing in building full-stack scalable applications 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alecxander567&show_icons=true&theme=radical)
 
 ## Current Learning Focus
-- Machine Learning Fundamentals (Pandas)
+- Machine Learning Fundamentals (Matplotlib)
 - System Design Principles
 - Bash Scripting
 - Github Actions
