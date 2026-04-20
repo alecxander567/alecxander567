@@ -47,4 +47,3 @@ A passionate BSIT student focusing in building full-stack scalable applications 
 - Machine Learning Fundamentals (Matplotlib)
 - System Design Principles
 - Bash Scripting
-- Github Actions
