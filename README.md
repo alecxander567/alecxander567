@@ -38,6 +38,7 @@ A passionate BSIT student focusing in building full-stack scalable applications 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
 ## GitHub Analytics
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alecxander567&layout=compact&theme=radical)
