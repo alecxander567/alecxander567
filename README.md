@@ -47,4 +47,3 @@ A passionate BSIT student focusing in building full-stack scalable applications 
 
 ## Current Learning Focus
 - Machine Learning Fundamentals (Matplotlib)
-- Bash Scripting
