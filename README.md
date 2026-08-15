@@ -41,6 +41,12 @@ I'm a passionate developer with experience in building scalable web applications
 
 <div align="center">
 
+_Last updated: August 15, 2026_
+
+</div>
+
+<div align="center">
+
 ![Top Languages](https://gitstats-api-1i3g.onrender.com/api/readme-profile/readme-card/languages/?username=alecxander567)
 
 </div>
