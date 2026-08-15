@@ -24,17 +24,19 @@ I'm a passionate developer with experience in building scalable web applications
 - **DevOps & Infrastructure** - Docker, CI/CD, and cloud deployment
 - **Developer Tooling** - Building tools that improve developer productivity
 
-
 ## GitHub Stats
 
-![GitHub Stats](https://gitstats-api-1i3g.onrender.com/api/readme-profile/readme-card/stats/?username=alecxander567)
-
-
 <div align="center">
-
-
-_Last updated: August 15, 2026_
-
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=alecxander567&show_icons=true&hide_title=true&count_private=true&hide=issues" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecxander567&layout=compact&hide_title=true&langs_count=8" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
