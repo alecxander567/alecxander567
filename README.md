@@ -13,15 +13,10 @@ Hi I'm passionate about building full stack applications and systems!
 
 </div>
 
----
 
 ## GitHub Stats
 
 ![GitHub Stats](https://gitstats-api-1i3g.onrender.com/api/readme-profile/readme-card/stats/?username=alecxander567)
-
-### Top Languages
-
-JavaScript (23 repos), Python (13 repos), Java (10 repos), TypeScript (9 repos), PHP (5 repos)
 
 
 <div align="center">
