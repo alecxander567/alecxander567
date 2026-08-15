@@ -9,37 +9,33 @@
 # EXPN
 
 
-Hi I'm passionate about building full stack applications and systems!
+
+Hi, I'm passionate about building full-stack applications and systems!
 
 </div>
 
-## About Me
+---
 
-I'm a passionate developer with experience in building scalable web applications, APIs, and developer tools. I enjoy working with modern technologies and contributing to open source projects.
+## What I Do
 
-### 🚀 What I Do
+- **Web Applications** - Building responsive, full-stack web apps
+- **Mobile** - Developing cross-platform mobile experiences
+- **Desktop** - Creating native desktop applications
+- **IoT** - Building connected device and embedded systems solutions
 
-- **Full Stack Development** - Building end-to-end web applications
-- **API Design & Development** - Creating RESTful and GraphQL APIs
-- **DevOps & Infrastructure** - Docker, CI/CD, and cloud deployment
-- **Developer Tooling** - Building tools that improve developer productivity
+---
 
 ## GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=alecxander567&show_icons=true&hide_title=true&count_private=true&hide=issues" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecxander567&layout=compact&hide_title=true&langs_count=8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+
+<img src="https://gitstats-api-1i3g.onrender.com/api/readme-profile/readme-card/stats/?username=alecxander567" alt="GitHub Stats" width="48%" /> <img src="{{languages_card_url}}" alt="Top Languages" width="48%" />
+
 </div>
 
 <div align="center">
+
+From [alecxander567](https://github.com/alecxander567)
 
 _Last updated: August 15, 2026_
 
