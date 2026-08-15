@@ -29,7 +29,7 @@ Hi, I'm passionate about building full-stack applications and systems!
 
 <div align="center">
 
-<img src="https://gitstats-api-1i3g.onrender.com/api/readme-profile/readme-card/stats/?username=alecxander567" alt="GitHub Stats" width="48%" /> <img src="{{languages_card_url}}" alt="Top Languages" width="48%" />
+<img src="https://gitstats-api-1i3g.onrender.com/api/readme-profile/readme-card/stats/?username=alecxander567" alt="GitHub Stats" width="48%" /> <img src="https://gitstats-api-1i3g.onrender.com/api/readme-profile/readme-card/languages/?username=alecxander567" alt="Top Languages" width="48%" />
 
 </div>
 
@@ -38,11 +38,5 @@ Hi, I'm passionate about building full-stack applications and systems!
 From [alecxander567](https://github.com/alecxander567)
 
 _Last updated: August 15, 2026_
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://gitstats-api-1i3g.onrender.com/api/readme-profile/readme-card/languages/?username=alecxander567)
 
 </div>
