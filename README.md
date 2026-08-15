@@ -81,15 +81,3 @@ _Last updated: August 15, 2026_
 ![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=github_162329514)
 
 </div>
-
-<div align="center">
-
-![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EXPN)
-
-</div>
-
-<div align="center">
-
-![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EXPN)
-
-</div>
