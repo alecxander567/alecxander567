@@ -24,33 +24,6 @@ I'm a passionate developer with experience in building scalable web applications
 - **DevOps & Infrastructure** - Docker, CI/CD, and cloud deployment
 - **Developer Tooling** - Building tools that improve developer productivity
 
-### 💡 My Expertise
-
-- **Frontend**: React, TypeScript, Tailwind CSS, Vite
-- **Backend**: Django, Python, Node.js
-- **Database**: PostgreSQL, MySQL, MongoDB
-- **DevOps**: Docker, AWS, Render, Netlify
-- **Other**: GitHub API, Firebase, AI Integration
-
-### 🔭 Current Projects
-
-- GitHub Stats Tracker - A comprehensive GitHub analytics platform
-- Developer Community Platform - Connect and collaborate with developers
-- Profile README Generator - Dynamic GitHub profile READMEs with live stats
-
-### 🌱 What I'm Learning
-
-- Cloud architecture and microservices
-- AI and machine learning integration
-- Mobile app development with React Native
-
-### 💬 Let's Connect
-
-- GitHub: [alecxander567](https://github.com/alecxander567)
-- Blog: 
-- Location: Davao City, Philippines
-
----
 
 ## GitHub Stats
 
