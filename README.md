@@ -21,7 +21,6 @@ Hi I'm passionate about building full stack applications and systems!
 
 <div align="center">
 
-From [alecxander567](https://github.com/alecxander567)
 
 _Last updated: August 15, 2026_
 
