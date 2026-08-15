@@ -18,7 +18,7 @@ Hello, I am passionate about building full-stack applications and systems!
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=github_162329514&show_icons=true&hide_title=true&count_private=true)
+
 
 | Metric | Count |
 |---|---|
@@ -53,7 +53,7 @@ _Last updated: August 15, 2026_
 
 <div align="center">
 
-![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=github_162329514)
+
 
 </div>
 
@@ -78,6 +78,6 @@ _Last updated: August 15, 2026_
 
 <div align="center">
 
-![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=github_162329514)
+
 
 </div>
