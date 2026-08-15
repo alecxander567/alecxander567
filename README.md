@@ -6,19 +6,6 @@
 
 <div align="center">
 
-![GitHub Repos](https://img.shields.io/badge/Repos-76-blue) ![GitHub Stars](https://img.shields.io/badge/Stars-61-yellow) ![GitHub Forks](https://img.shields.io/badge/Forks-0-orange) ![GitHub Followers](https://img.shields.io/badge/Followers-57-brightgreen)
-
-</div>
-
-<div align="center">
-
-![GitHub Repos](https://img.shields.io/badge/Repos-76-blue) ![GitHub Stars](https://img.shields.io/badge/Stars-61-yellow) ![GitHub Forks](https://img.shields.io/badge/Forks-0-orange) ![GitHub Followers](https://img.shields.io/badge/Followers-57-brightgreen)
-
-</div>
-
-
-<div align="center">
-
 # EXPN
 
 Hello, I am passionate about building full-stack applications and systems!
@@ -92,6 +79,12 @@ _Last updated: August 15, 2026_
 <div align="center">
 
 ![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=github_162329514)
+
+</div>
+
+<div align="center">
+
+![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EXPN)
 
 </div>
 
