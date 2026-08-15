@@ -4,14 +4,11 @@
 
 </div>
 
-
 <div align="center">
 
 # EXPN
 
-
-
-**Location:** Davao City, Philippines &nbsp;|&nbsp; **Company:**  &nbsp;|&nbsp; **Blog:** 
+**Location:** Davao City, Philippines &nbsp;|&nbsp; **Company:** &nbsp;|&nbsp; **Blog:**
 
 </div>
 
@@ -19,7 +16,7 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://gitstats-api-1i3g.onrender.com/api/readme-card/stats/?username=alecxander567)
+![GitHub Stats](https://gitstats-api-1i3g.onrender.com/api/readme-profile/readme-card/stats/?username=alecxander567)
 
 ### Activity Summary
 
@@ -53,9 +50,8 @@ _Last updated: August 15, 2026_
 
 </div>
 
-
 <div align="center">
 
-![Top Languages](https://gitstats-api-1i3g.onrender.com/api/readme-card/languages/?username=alecxander567)
+![Top Languages](https://gitstats-api-1i3g.onrender.com/api/readme-profile/readme-card/languages/?username=alecxander567)
 
 </div>
