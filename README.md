@@ -1,10 +1,16 @@
 <div align="center">
 
-# {{user.name}}
+![GitHub Repos](https://img.shields.io/badge/Repos-76-blue) ![GitHub Stars](https://img.shields.io/badge/Stars-61-yellow) ![GitHub Forks](https://img.shields.io/badge/Forks-0-orange) ![GitHub Followers](https://img.shields.io/badge/Followers-57-brightgreen)
 
-{{user.bio}}
+</div>
 
-**Location:** {{user.location}} &nbsp;|&nbsp; **Company:** {{user.company}} &nbsp;|&nbsp; **Blog:** {{user.blog}}
+<div align="center">
+
+# EXPN
+
+
+
+**Location:** Davao City, Philippines &nbsp;|&nbsp; **Company:**  &nbsp;|&nbsp; **Blog:** 
 
 </div>
 
@@ -12,36 +18,42 @@
 
 ## GitHub Stats
 
-![GitHub Stats]({{stats_card_url}})
+![GitHub Stats](https://gitstats-api-1i3g.onrender.com/api/readme-profile/readme-card/stats/?username=alecxander567)
 
 ### Activity Summary
 
 | Metric | Count |
 |---|---|
-| Total Repositories | {{stats.total_repos}} |
-| Total Stars Received | {{stats.total_stars}} |
-| Total Forks | {{stats.total_forks}} |
-| Public Repos | {{stats.public_repos}} |
-| Private Repos | {{stats.private_repos}} |
+| Total Repositories | 76 |
+| Total Stars Received | 61 |
+| Total Forks | 0 |
+| Public Repos | 73 |
+| Private Repos | 3 |
 
 ### Top Languages
 
-{{languages.top_5}}
+JavaScript (23 repos), Python (13 repos), Java (10 repos), TypeScript (9 repos), PHP (5 repos)
 
 ### Recent Activity (Last 30 Days)
 
 | Type | Count |
 |---|---|
-| Commits | {{contributions.last_30_days.commits}} |
-| Pull Requests | {{contributions.last_30_days.prs}} |
-| Issues | {{contributions.last_30_days.issues}} |
+| Commits | 0 |
+| Pull Requests | 0 |
+| Issues | 0 |
 
 ---
 
 <div align="center">
 
-From [{{user.username}}](https://github.com/{{user.username}})
+From [alecxander567](https://github.com/alecxander567)
 
-_Last updated: {{current_date}}_
+_Last updated: August 15, 2026_
+
+</div>
+
+<div align="center">
+
+![Top Languages](https://gitstats-api-1i3g.onrender.com/api/readme-profile/readme-card/languages/?username=alecxander567)
 
 </div>
