@@ -1,34 +1,31 @@
 <div align="center">
 
-![GitHub Repos](https://img.shields.io/badge/Repos-76-blue) ![GitHub Stars](https://img.shields.io/badge/Stars-61-yellow) ![GitHub Forks](https://img.shields.io/badge/Forks-0-orange) ![GitHub Followers](https://img.shields.io/badge/Followers-57-brightgreen)
+# {{user.name}}
 
-</div>
-
-<div align="center">
-
-# EXPN
-
-
+{{user.bio}}
 Hi I'm passionate about building full stack applications and systems!
 
 </div>
 
-
 ## GitHub Stats
 
-![GitHub Stats](https://gitstats-api-1i3g.onrender.com/api/readme-profile/readme-card/stats/?username=alecxander567)
-
-
 <div align="center">
-
-From [alecxander567](https://github.com/alecxander567)
-
-_Last updated: August 15, 2026_
-
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username={{user.username}}&show_icons=true&hide_title=true&count_private=true&hide=issues" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={{user.username}}&layout=compact&hide_title=true&langs_count=8" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
 
-![Top Languages](https://gitstats-api-1i3g.onrender.com/api/readme-profile/readme-card/languages/?username=alecxander567)
+From [{{user.username}}](https://github.com/{{user.username}})
+
+_Last updated: {{current_date}}_
 
 </div>
