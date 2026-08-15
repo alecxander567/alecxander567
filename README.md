@@ -19,7 +19,7 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alecxander567&show_icons=true&hide_title=true&count_private=true)
+![GitHub Stats](https://gitstats-api-1i3g.onrender.com/api/readme-card/stats/?username=alecxander567)
 
 ### Activity Summary
 
@@ -56,6 +56,6 @@ _Last updated: August 15, 2026_
 
 <div align="center">
 
-![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alecxander567)
+![Top Languages](https://gitstats-api-1i3g.onrender.com/api/readme-card/languages/?username=alecxander567)
 
 </div>
