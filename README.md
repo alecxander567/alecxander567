@@ -9,8 +9,7 @@
 # EXPN
 
 
-
-**Location:** Davao City, Philippines &nbsp;|&nbsp; **Company:**  &nbsp;|&nbsp; **Blog:** 
+Hi I'm passionate about building full stack applications and systems!
 
 </div>
 
@@ -20,29 +19,10 @@
 
 ![GitHub Stats](https://gitstats-api-1i3g.onrender.com/api/readme-profile/readme-card/stats/?username=alecxander567)
 
-### Activity Summary
-
-| Metric | Count |
-|---|---|
-| Total Repositories | 76 |
-| Total Stars Received | 61 |
-| Total Forks | 0 |
-| Public Repos | 73 |
-| Private Repos | 3 |
-
 ### Top Languages
 
 JavaScript (23 repos), Python (13 repos), Java (10 repos), TypeScript (9 repos), PHP (5 repos)
 
-### Recent Activity (Last 30 Days)
-
-| Type | Count |
-|---|---|
-| Commits | 0 |
-| Pull Requests | 0 |
-| Issues | 0 |
-
----
 
 <div align="center">
 
